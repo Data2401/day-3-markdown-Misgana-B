@@ -1,6 +1,6 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Misgana Bekele"
 date: "Data 2401"
 output: html_document
 ---
@@ -35,3 +35,28 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
  
+
+ 
+# Your work here
+
+## Wise words
+ 'Doubt is the origen of wisdom' - Augustine of Hippo
+[the link text ](https://wisdomquotes.com/words-of-wisdom/)
+
+## my semester
+|**Coures number**|_Course tittel_|Instructor name
+|:------------|:------------|:--------------|
+|**Data 2401**|_Data Science 1_| Dr. Katherin|
+|**MATH2305** |_Discrete Mathematics_ | Dr. Jane |
+|**CS 2331**|_Introdaction to Pyton_|Dr. Henderson|
+
+## I recommend
+
+"You are not the opinion of someone who doesn’t know you."
+
+### Taylor Swif
+- Love Story
+- You Belong with Me
+- White Horse
+
+  
